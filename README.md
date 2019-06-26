@@ -1,3 +1,9 @@
+This is my first commercial experience, it's under construction and I hope that the final resoult will be satisfactory.
+
+At the moment I made a foundations for a site.
+
+Updates will soon apear :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
