@@ -1,4 +1,4 @@
-This is my first commercial experience, it's under construction and I hope that the final resoult will be satisfactory.
+This is my first commercial experience, it's under construction and I hope that the final result will be satisfactory.
 
 At the moment I made a foundations for a site.
 
